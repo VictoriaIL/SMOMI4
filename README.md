@@ -42,13 +42,13 @@ crop
 ### BATCH_SIZE = 8   lr = 0.000000000001
 
 
-![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_130.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_130.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_130.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_130.PNG)
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_130.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_130.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_130.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_130.PNG)
 
 
-![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_170.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_170.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_170.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_170.PNG)
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_170.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_170.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_170.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_170.PNG)
 
 
-![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_200.PNG)
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_200.PNG)
 
 
 
