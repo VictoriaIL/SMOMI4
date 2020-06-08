@@ -74,8 +74,9 @@
 
 ![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_200.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_200.PNG)
 
+#### 215x215
 
-
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_215.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_215.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_215.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_215.PNG)
 
 итог
 
