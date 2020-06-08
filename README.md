@@ -1,8 +1,13 @@
 # SMOMI4
- 
-Flip
 
-### BATCH_SIZE = 8   lr = 0.00000004
+
+
+
+В данной лабораторной работе необходимо было использовать различные методы аугментации при обучении сети. Я использовала предобученную нейронную сеть VGG16 с обученным классификатором.
+ 
+#### Горизонтальное отражение
+
+###
 
 ![.](https://github.com/VictoriaIL/SMOMI4/blob/master/flip/A_train_flip.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/flip/L_train_flip.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/flip/A_val_flip.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/flip/L_val_flip.PNG)
 
