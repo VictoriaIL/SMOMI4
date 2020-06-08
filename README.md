@@ -45,7 +45,7 @@
 #### 2. Коэффициент 0.3
 
 
-![.](https://github.com/VictoriaIL/SMOMI4/blob/master/bright/A_train_(0.3).PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/bright/L_train_(0.3).PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/bright/A_val_(0.3).PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/bright/L_val_(0.3).PNG)
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/bright/A_train_0.3.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/bright/L_train_0.3.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/bright/A_val_0.3.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/bright/L_val_0.3.PNG)
 
 
 #### 3. Коэффициент 0.5
