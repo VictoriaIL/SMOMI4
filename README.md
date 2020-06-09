@@ -80,8 +80,6 @@
 
 ###  5) Итоговая аугментация с наилучшими параметрами
 
-degree = 10
-brightness 0.5
-crop 215x215
+degree = 10, brightness = 0.5, crop = 215x215
 
 ![.](https://github.com/VictoriaIL/SMOMI4/blob/master/final/A_train_final.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/final/L_train_final.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/final/A_val_final.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/final/L_val_final.PNG)
