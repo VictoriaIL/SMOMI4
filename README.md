@@ -78,6 +78,25 @@
 
 ![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_215.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_215.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_215.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_215.PNG)
 
+
+
+#### a. 150x150
+
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_150_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_150_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_150_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_150_n.PNG)
+
+#### a. 170x170
+
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_170_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_170_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_170_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_170_n.PNG)
+
+#### a. 200x200
+
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_200_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_200_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_200_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_200_n.PNG)
+
+#### a. 215x215
+
+![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_215_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_215_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_215_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_215_n.PNG)
+
+
 ###  5) Итоговая аугментация с наилучшими параметрами
 
 degree = 10, brightness = 0.5, crop = 215x215
