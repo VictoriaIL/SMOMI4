@@ -84,15 +84,15 @@
 
 ![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_150_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_150_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_150_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_150_n.PNG)
 
-#### a. 170x170
+#### b. 170x170
 
 ![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_170_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_170_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_170_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_170_n.PNG)
 
-#### a. 200x200
+#### c. 200x200
 
 ![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_200_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_200_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_200_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_200_n.PNG)
 
-#### a. 215x215
+#### d. 215x215
 
 ![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_train_crop_215_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_train_crop_215_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/A_val_crop_215_n.PNG)![.](https://github.com/VictoriaIL/SMOMI4/blob/master/crop/L_val_crop_215_n.PNG)
 
